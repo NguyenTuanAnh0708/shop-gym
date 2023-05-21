@@ -5,5 +5,5 @@ app.use((req, res) => {
   res.send("tuan anh");
 });
 app.listen(PORT, () => {
-  console.log("server is running");
+  // console.log("server is running");
 });
